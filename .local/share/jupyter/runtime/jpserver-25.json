@@ -1,0 +1,13 @@
+{
+  "base_url": "/binder/jupyter/user/firmlab-binder-template-tos14jud/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 25,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "8XH9chu9SFy2QUUTF_ko0g",
+  "url": "http://jupyter-firmlab-2dbinder-2dtemplate-2dtos14jud:8888/binder/jupyter/user/firmlab-binder-template-tos14jud/",
+  "version": "1.23.6"
+}
