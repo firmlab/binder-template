@@ -178,3 +178,15 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2023-08-29 06:56:31.248 ServerApp] Saving file at /panda_try.ipynb
 [I 2023-08-29 06:56:41.723 ServerApp] Saving file at /panda_try.ipynb
 [I 2023-08-29 06:58:14.306 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:01:31.937 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:03:32.481 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:05:33.526 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:07:34.346 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:13:04.020 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:14:17.632 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:16:00.201 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:18:00.984 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:20:01.536 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:20:49.756 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:21:21.498 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:22:39.221 ServerApp] Saving file at /panda_try.ipynb
