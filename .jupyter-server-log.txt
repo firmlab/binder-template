@@ -190,3 +190,15 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2023-08-29 07:20:49.756 ServerApp] Saving file at /panda_try.ipynb
 [I 2023-08-29 07:21:21.498 ServerApp] Saving file at /panda_try.ipynb
 [I 2023-08-29 07:22:39.221 ServerApp] Saving file at /panda_try.ipynb
+[W 2023-08-29 07:34:33.375 ServerApp] Culling 'idle' kernel 'python3' (ed21d405-0a83-49e4-81af-88084aa806eb) with 1 connections due to 615 seconds of inactivity.
+[I 2023-08-29 07:34:33.377 ServerApp] Kernel shutdown: ed21d405-0a83-49e4-81af-88084aa806eb
+[I 2023-08-29 07:35:50.724 ServerApp] Kernel started: e93d6b66-71f9-42f8-b724-821854650529
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 2023-08-29 07:35:51.764 ServerApp] Could not destroy zmq context for <jupyter_client.asynchronous.client.AsyncKernelClient object at 0x7fea3dc0b590>
+[I 2023-08-29 07:36:41.451 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:36:42.828 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:37:40.888 ServerApp] Saving file at /panda_try.ipynb
+[I 2023-08-29 07:40:31.882 ServerApp] Saving file at /panda_try.ipynb
