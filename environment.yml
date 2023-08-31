@@ -13,3 +13,6 @@ dependencies:
   - bokeh
   - dask
   - seaborn
+  - scikit-learn
+  - scikit-image
+  - pytorch
